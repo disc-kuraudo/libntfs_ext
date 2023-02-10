@@ -28,7 +28,7 @@
 
 #include <stdint.h>
 #include <string.h>
-#include <psl1ght/lv2.h>
+#include <ppu-lv2.h>
 #include <sys/thread.h>
 
 //#include "io_buffer.h"
